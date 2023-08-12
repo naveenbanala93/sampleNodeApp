@@ -1,0 +1,23 @@
+{
+  "name": "samplenodeapp",
+  "version": "1.0.0",
+  "description": "This is Sample Node Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenbanala93/sampleNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenbanala93/sampleNodeApp/issues"
+  },
+  "homepage": "https://github.com/naveenbanala93/sampleNodeApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
